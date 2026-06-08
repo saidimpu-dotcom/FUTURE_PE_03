@@ -21,7 +21,6 @@ This project demonstrates how AI can be used to generate an SEO content strategy
 ## Tools Used
 
 * [ChatGPT]
-* [Claude]
 * [Lovable AI]
 * [GitHub]
 
@@ -44,4 +43,3 @@ This project demonstrates how AI can be used to generate an SEO content strategy
 * Frontend vs Backend Development
 * Coding Best Practices
 
-**Live Website:** *(Add your website link here after publishing)*
